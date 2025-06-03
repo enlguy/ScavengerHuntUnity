@@ -1,0 +1,1 @@
+My first real project with Unity.  I am building a scavenger hunt game across an open world with forests and mountains.  The player will hunt for each clue based on the previous clue, and clues are placed in locations around the map.
